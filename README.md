@@ -1,4 +1,4 @@
-Hi I'm Zili Luo but please call me Leslie.
+Hi I'm Zili Luo but please call me Leslie (LESLIE stands for LESLIE's Exclusive Solutions for Locally Integrated Electronics).
 
 This is my account for uni work, my normal account is [leslie255](https://github.com/leslie255).
 
