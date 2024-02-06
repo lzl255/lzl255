@@ -7,4 +7,6 @@ I have a few projects on my other accuont
 - Compiler for a custom designed language (Rust, WIP, works): [leslie255/sharklang)(https://github.com/leslie255/sharklang)
 - A C compiler (Rust, WIP, does not work): [leslie255/lmcc)(https://github.com/leslie255/lmcc)
 
-If you're one my of the people from the class feel free to ask me any questions, it could be about C or assembly programming or just programming in general, I'm like pretty good at this shit.
+If you're one my of the people from the class feel free to ask me any questions, it could be about C or assembly or just programming in general, I'm like pretty good at this shit.
+
+Contact me through email ([iam@luozi.li](mailto:iam@luozi.li)) or Discord (@kerbal_255).
